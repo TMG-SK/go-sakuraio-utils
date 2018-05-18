@@ -3,7 +3,7 @@
 /*
 CheckSignature は、sakura.ioのoutgoing webhookで設定されたリクエストが正当なものかどうか判断します。
 */
-package sakuraio
+package signature
 
 import (
 	"crypto/hmac"
