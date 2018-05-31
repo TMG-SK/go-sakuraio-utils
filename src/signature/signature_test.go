@@ -1,4 +1,4 @@
-package sakuraio
+package signature
 
 import (
 	"testing"
